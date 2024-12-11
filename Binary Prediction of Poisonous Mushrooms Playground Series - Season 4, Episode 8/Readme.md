@@ -84,3 +84,15 @@
     </ul>
   </div>
 </div>
+
+![model_summary](https://github.com/user-attachments/assets/142c4335-27de-456a-8eb9-6221f10c1cce)
+
+![training_validation_loss](https://github.com/user-attachments/assets/55cd7df6-a34b-4581-92cd-62a8572ee14f)
+
+
+![train_accuracy_metric_chart](https://github.com/user-attachments/assets/bd970b35-d900-482f-b02a-d6ae47ec9275)
+
+
+![confusion_matrix](https://github.com/user-attachments/assets/f8548fd6-edb4-4f70-ae6e-ee27dafbed6d)
+
+
