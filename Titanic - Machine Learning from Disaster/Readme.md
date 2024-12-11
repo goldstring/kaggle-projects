@@ -1,5 +1,8 @@
 <h1>Titanic - Machine Learning from Disaster</h1>
+
+
 <div class="row">
+    <h3>Project Overview</h3>
     <div class="col-12">
         <p>In this project, I worked on predicting passenger survival from the Titanic disaster using data provided in a Kaggle challenge. The aim was to build a model that could predict which types of passengers were more likely to survive based on features like age, gender, and socio-economic class.</p>
         <p>Below is an outline of the steps I followed to complete the project:</p>
